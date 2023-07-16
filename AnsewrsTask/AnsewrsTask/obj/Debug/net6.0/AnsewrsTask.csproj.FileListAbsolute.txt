@@ -1,0 +1,15 @@
+D:\tasks\opertion_task-iti-1-\AnsewrsTask\AnsewrsTask\bin\Debug\net6.0\AnsewrsTask.exe
+D:\tasks\opertion_task-iti-1-\AnsewrsTask\AnsewrsTask\bin\Debug\net6.0\AnsewrsTask.deps.json
+D:\tasks\opertion_task-iti-1-\AnsewrsTask\AnsewrsTask\bin\Debug\net6.0\AnsewrsTask.runtimeconfig.json
+D:\tasks\opertion_task-iti-1-\AnsewrsTask\AnsewrsTask\bin\Debug\net6.0\AnsewrsTask.dll
+D:\tasks\opertion_task-iti-1-\AnsewrsTask\AnsewrsTask\bin\Debug\net6.0\AnsewrsTask.pdb
+D:\tasks\opertion_task-iti-1-\AnsewrsTask\AnsewrsTask\obj\Debug\net6.0\AnsewrsTask.csproj.AssemblyReference.cache
+D:\tasks\opertion_task-iti-1-\AnsewrsTask\AnsewrsTask\obj\Debug\net6.0\AnsewrsTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\tasks\opertion_task-iti-1-\AnsewrsTask\AnsewrsTask\obj\Debug\net6.0\AnsewrsTask.AssemblyInfoInputs.cache
+D:\tasks\opertion_task-iti-1-\AnsewrsTask\AnsewrsTask\obj\Debug\net6.0\AnsewrsTask.AssemblyInfo.cs
+D:\tasks\opertion_task-iti-1-\AnsewrsTask\AnsewrsTask\obj\Debug\net6.0\AnsewrsTask.csproj.CoreCompileInputs.cache
+D:\tasks\opertion_task-iti-1-\AnsewrsTask\AnsewrsTask\obj\Debug\net6.0\AnsewrsTask.dll
+D:\tasks\opertion_task-iti-1-\AnsewrsTask\AnsewrsTask\obj\Debug\net6.0\refint\AnsewrsTask.dll
+D:\tasks\opertion_task-iti-1-\AnsewrsTask\AnsewrsTask\obj\Debug\net6.0\AnsewrsTask.pdb
+D:\tasks\opertion_task-iti-1-\AnsewrsTask\AnsewrsTask\obj\Debug\net6.0\AnsewrsTask.genruntimeconfig.cache
+D:\tasks\opertion_task-iti-1-\AnsewrsTask\AnsewrsTask\obj\Debug\net6.0\ref\AnsewrsTask.dll
